@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RexLT
 - 👀 I’m interested in C# and programming in general including HTML, VBA Macros.
-- 🌱 I’m currently learning whatever I can but mostly about Azure.
+- 🌱 I’m currently learning whatever I can but mostly about Azure and Blazor.
 
 <!---
 RexLT/RexLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
